@@ -7,6 +7,7 @@ You work for a consumer finance company Lending Club which specialises in lendin
 
 
   1) Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
+  
        1.1) Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
 
        1.2) Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not                   labelled as 'defaulted'.
