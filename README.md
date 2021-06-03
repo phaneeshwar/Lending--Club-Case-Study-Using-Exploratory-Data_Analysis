@@ -7,11 +7,11 @@ You work for a consumer finance company Lending Club which specialises in lendin
 
 
   1) Loan accepted: If the company approves the loan, there are 3 possible scenarios described below:
-          1.1) Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
+       1.1) Fully paid: Applicant has fully paid the loan (the principal and the interest rate)
 
-          1.2) Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not                   labelled as 'defaulted'.
+       1.2) Current: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not                   labelled as 'defaulted'.
 
-          1.3) Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan
+       1.3) Charged-off: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has defaulted on the loan
 
   2) Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
